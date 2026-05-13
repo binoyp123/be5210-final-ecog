@@ -1,6 +1,6 @@
 # BE 5210 final project — ECoG → finger flexion
 
-Class competition thing from spring 2026: predict data glove finger movement from ECoG. Team was me (Binoy), Sohan Lele, and Eric Ouyang.
+Class competition from spring 2026: predict data glove finger movement from ECoG. Team was me (Binoy), Sohan Lele, and Eric Ouyang.
 
 **What’s actually in this repo:** the dev notebook (`Final_Project.ipynb`), the submission-style inference notebook (`Final_Project_Submission.ipynb`), and our write-up (`Final Report.pdf`).
 
