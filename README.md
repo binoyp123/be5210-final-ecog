@@ -22,4 +22,4 @@ Then open the notebooks in Jupyter or VS Code and go from there.
 
 ## AI use
 
-We used ChatGPT-type stuff for debugging, explaining concepts, and bouncing ideas around — not for copy-pasting the whole project. Same note as in our submission notebook.
+We used ChatGPT-type stuff for debugging, explaining concepts, and bouncing ideas around. Not for copy-pasting the whole project. Same note as in our submission notebook.
