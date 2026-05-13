@@ -1,0 +1,12 @@
+# big / course data — keep out of git
+*.mat
+submission_models.zip
+ensemble_params.pkl
+saved_models/
+
+# misc
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
